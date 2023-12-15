@@ -28,3 +28,6 @@ filetree.ini
 
 # firebase debug
 firebase-debug.log
+
+# zip files
+build.zip
