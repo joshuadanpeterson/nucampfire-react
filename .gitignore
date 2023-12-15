@@ -31,3 +31,8 @@ firebase-debug.log
 
 # zip files
 build.zip
+
+# files
+	/nucampfire-react.git.bfg-report/
+	/nucampfire-react.git/
+    /nucampfire-react/
